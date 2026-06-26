@@ -1,0 +1,24 @@
+# Dependency directories
+Website/node_modules/
+
+# Build outputs
+Website/dist/
+Website/dist-ssr/
+
+# Local env files
+Website/*.local
+Website/.env
+
+# Editor & system files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Arduino/ESP32 temporary build artifacts
+ESP32/build/
+ESP32/bin/

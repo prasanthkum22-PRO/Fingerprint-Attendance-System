@@ -1,0 +1,17 @@
+{
+  "students": {
+    "student_id_1": {
+      "name": "John Doe",
+      "fingerprint_id": 1,
+      "roll_no": "12345"
+    }
+  },
+  "attendance": {
+    "date_string": {
+      "student_id_1": {
+        "timestamp": 1678888888,
+        "status": "present"
+      }
+    }
+  }
+}
